@@ -1,22 +1,20 @@
-termux-setup-storage
+## termux-setup-storage
 ```
 ```
-apt update && apt upgrade
+## apt update && apt upgrade
 ```
 ```
-pkg install git
-```
-## Clone this repository
-```
-git clone https://github.com/JibanBoral/Kala_hacker-v7.git
+## pkg install git
+
+## git clone https://github.com/JibanBoral/Kala_hacker-v7.git
 ```
 ```
-cd Kala_hacker-v7
+## cd Kala_hacker-v7
 ```
 ```
-chmod +x setup
+## chmod +x setup
 ```
 ```
-bash OBB
+## bash OBB
 
 KALA_OBB_TOOL
